@@ -1,0 +1,9 @@
+/* Work Sans Font form google fonts */
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@700;800&family=Work+Sans:wght@400;500;600;700;800&display=swap');
+</style>
+*{
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+}
